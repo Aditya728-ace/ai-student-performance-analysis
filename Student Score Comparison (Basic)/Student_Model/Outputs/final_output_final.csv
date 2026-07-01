@@ -1,0 +1,1110 @@
+StudentID,Name,Math_Diff,Math_Status,English_Diff,English_Status,Science_Diff,Science_Status,History_Diff,History_Status,Verdict
+701,Aanya,Missing,Missing,44.0,Improved,16.0,Improved,-12.0,Declined,"Student: Aanya
+
+Performance:
+Math: Missing
+English: Improved
+Science: Improved
+History: Declined
+
+Verdict:
+Final Verdict: Aanya has shown improvement in both English and Science, but her performance in Math is missing and History has declined. Based on this limited information, she may need additional support in Math and could benefit from revision in History.
+"
+702,Krishna,Missing,Missing,22.0,Improved,-36.0,Declined,-21.0,Declined,"Student: Krishna
+
+Performance:
+Math: Missing
+English: Improved
+Science: Declined
+History: Declined
+
+Verdict:
+Final Verdict: Krishna has shown improvement in English but declined in other subjects. His performance is mixed across the board.
+"
+703,Sneha,6.0,Improved,-33.0,Declined,13.0,Improved,3.0,Improved,"Student: Sneha
+
+Performance:
+Math: Improved
+English: Declined
+Science: Improved
+History: Improved
+
+Verdict:
+Final Verdict: Sneha has shown improvement in both Math and Science, while History also improved. However, there was a decline in her English grades.
+"
+704,Riaan,-10.0,Declined,15.0,Improved,11.0,Improved,-31.0,Declined,"Student: Riaan
+
+Performance:
+Math: Declined
+English: Improved
+Science: Improved
+History: Declined
+
+Verdict:
+Final Verdict: Riaan has shown improvement in English and Science but declined in Math and History. Further support in these areas may be needed.
+"
+705,Saisha,8.0,Improved,Missing,Missing,Missing,Missing,6.0,Improved,"Student: Saisha
+
+Performance:
+Math: Improved
+English: Missing
+Science: Missing
+History: Improved
+
+Verdict:
+Final Verdict: Saisha has shown improvement in Math but lacks in English and History. Further support in these subjects may be beneficial for her growth.
+"
+706,Riaan,-11.0,Declined,-30.0,Declined,11.0,Improved,-6.0,Declined,"Student: Riaan
+
+Performance:
+Math: Declined
+English: Declined
+Science: Improved
+History: Declined
+
+Verdict:
+Final Verdict: Riaan has shown improvement in Science but declined in the other subjects. Final grades may need adjustment based on these trends.
+"
+707,Tanya,Missing,Missing,-1.0,Declined,Missing,Missing,-14.0,Declined,"Student: Tanya
+
+Performance:
+Math: Missing
+English: Declined
+Science: Missing
+History: Declined
+
+Verdict:
+Final Verdict: Tanya has shown improvement in her performance as compared to the previous year, but she still needs to work on consistency and accuracy in all subjects. She should focus more on improving her math and history skills.
+"
+708,Arnav,-31.0,Declined,Missing,Missing,-25.0,Declined,Missing,Missing,"Student: Arnav
+
+Performance:
+Math: Declined
+English: Missing
+Science: Declined
+History: Missing
+
+Verdict:
+Final Verdict: Arnav has shown a decline in both Math and Science, while his English and History scores are missing. Based on the available information, he seems to be struggling with understanding or completing these subjects.
+"
+709,Aryan,-42.0,Declined,-9.0,Declined,Missing,Missing,Missing,Missing,"Student: Aryan
+
+Performance:
+Math: Declined
+English: Declined
+Science: Missing
+History: Missing
+
+Verdict:
+Final Verdict: Aryan has shown a decline in both Math and English. However, details for Science and History are missing, so we cannot fully assess her performance in these subjects.
+"
+710,Dev,17.0,Improved,-15.0,Declined,-34.0,Declined,-2.0,Declined,"Student: Dev
+
+Performance:
+Math: Improved
+English: Declined
+Science: Declined
+History: Declined
+
+Verdict:
+Final Verdict: Dev has shown improvement in math but declined in other subjects. Overall, the trend is mixed with a positive note in math.
+"
+711,Varun,Missing,Missing,-12.0,Declined,Missing,Missing,-19.0,Declined,"Student: Varun
+
+Performance:
+Math: Missing
+English: Declined
+Science: Missing
+History: Declined
+
+Verdict:
+Final Verdict: Varun has shown a decline in both his English and History grades, but lacks data for Math and Science. Based on this limited information, it seems he is struggling academically.
+"
+712,Naina,Missing,Missing,-33.0,Declined,-14.0,Declined,3.0,Improved,"Student: Naina
+
+Performance:
+Math: Missing
+English: Declined
+Science: Declined
+History: Improved
+
+Verdict:
+Final Verdict: Naina has shown improvement in History but her performance in Math and the other subjects is lacking. She needs to focus more on these areas.
+"
+713,Sofia,-38.0,Declined,Missing,Missing,Missing,Missing,10.0,Improved,"Student: Sofia
+
+Performance:
+Math: Declined
+English: Missing
+Science: Missing
+History: Improved
+
+Verdict:
+Final Verdict: Sofia has shown improvement in History but declined in Math. She needs to focus on improving her performance in these subjects.
+"
+714,Atharv,Missing,Missing,Missing,Missing,41.0,Improved,Missing,Missing,"Student: Atharv
+
+Performance:
+Math: Missing
+English: Missing
+Science: Improved
+History: Missing
+
+Verdict:
+Final Verdict: Atharv has shown improvement in Science but lacks in other subjects. His performance is inconsistent across the board.
+"
+715,Kunal,21.0,Improved,-35.0,Declined,-1.0,Declined,Missing,Missing,"Student: Kunal
+
+Performance:
+Math: Improved
+English: Declined
+Science: Declined
+History: Missing
+
+Verdict:
+Final Verdict: Kunal has shown improvement in Math but declined in English and Science. His History score is missing, so we cannot assess it.
+"
+716,Vivaan,-15.0,Declined,-15.0,Declined,31.0,Improved,1.0,Improved,"Student: Vivaan
+
+Performance:
+Math: Declined
+English: Declined
+Science: Improved
+History: Improved
+
+Verdict:
+Final Verdict: Vivaan has shown mixed results across subjects. While there was improvement in Science and History, declines were seen in Math and English.
+"
+717,Dhruv,-12.0,Declined,5.0,Improved,19.0,Improved,34.0,Improved,"Student: Dhruv
+
+Performance:
+Math: Declined
+English: Improved
+Science: Improved
+History: Improved
+
+Verdict:
+Final Verdict: Dhruv has shown improvement in both English and Science, while Math has declined. However, History also improved.
+"
+718,Aryan,-16.0,Declined,Missing,Missing,Missing,Missing,Missing,Missing,"Student: Aryan
+
+Performance:
+Math: Declined
+English: Missing
+Science: Missing
+History: Missing
+
+Verdict:
+Final Verdict: Aryan has shown significant decline in Math performance, but lacks data for other subjects. Further evaluation is needed to understand her overall progress.
+"
+719,Rahul,-12.0,Declined,Missing,Missing,Missing,Missing,Missing,Missing,"Student: Rahul
+
+Performance:
+Math: Declined
+English: Missing
+Science: Missing
+History: Missing
+
+Verdict:
+Final Verdict: Rahul has shown a decline in his math performance. However, details for his other subjects are not available to make a full assessment.
+"
+720,Mira,21.0,Improved,-14.0,Declined,Missing,Missing,-16.0,Declined,"Student: Mira
+
+Performance:
+Math: Improved
+English: Declined
+Science: Missing
+History: Declined
+
+Verdict:
+Final Verdict: Mira has shown improvement in Math but her English skills have declined. Her Science and History scores are missing, so we cannot evaluate those areas.
+"
+721,Ishaan,Missing,Missing,Missing,Missing,-1.0,Declined,-18.0,Declined,"Student: Ishaan
+
+Performance:
+Math: Missing
+English: Missing
+Science: Declined
+History: Declined
+
+Verdict:
+Final Verdict: Ishaan's performance is inconsistent across the subjects. He excelled in Math but declined in Science and History, and his English skills are unknown.
+"
+722,Naman,Missing,Missing,Missing,Missing,Missing,Missing,-5.0,Declined,"Student: Naman
+
+Performance:
+Math: Missing
+English: Missing
+Science: Missing
+History: Declined
+
+Verdict:
+Final Verdict: Naman needs to improve in all subjects as his performance is currently unsatisfactory across the board. He should focus on strengthening his basics and practicing regularly.
+"
+723,Raghav,Missing,Missing,Missing,Missing,9.0,Improved,24.0,Improved,"Student: Raghav
+
+Performance:
+Math: Missing
+English: Missing
+Science: Improved
+History: Improved
+
+Verdict:
+Final Verdict: Raghav has shown improvement in both Science and History, but there is missing information for Math and English. Based on the given data, we cannot fully assess his performance in these subjects.
+"
+724,Naman,22.0,Improved,Missing,Missing,Missing,Missing,Missing,Missing,"Student: Naman
+
+Performance:
+Math: Improved
+English: Missing
+Science: Missing
+History: Missing
+
+Verdict:
+Final Verdict: Naman has shown improvement in Math but lacks in other subjects. Further support in these areas is needed to help him excel.
+"
+725,Nikhil,-17.0,Declined,-5.0,Declined,Missing,Missing,Missing,Missing,"Student: Nikhil
+
+Performance:
+Math: Declined
+English: Declined
+Science: Missing
+History: Missing
+
+Verdict:
+Final Verdict: Nikhil has shown a decline in both Math and English. His performance in Science and History is missing, so we cannot assess his progress in those subjects.
+"
+726,Anaya,-2.0,Declined,35.0,Improved,Missing,Missing,-22.0,Declined,"Student: Anaya
+
+Performance:
+Math: Declined
+English: Improved
+Science: Missing
+History: Declined
+
+Verdict:
+Final Verdict: Anaya has shown improvement in English but declined in Math and History. Science scores are missing.
+"
+727,Sneha,6.0,Improved,-39.0,Declined,7.0,Improved,Missing,Missing,"Student: Sneha
+
+Performance:
+Math: Improved
+English: Declined
+Science: Improved
+History: Missing
+
+Verdict:
+Final Verdict: Sneha has shown improvement in both Math and Science, but her English has declined. Her History score is missing.
+"
+728,Siddharth,-23.0,Declined,21.0,Improved,Missing,Missing,-9.0,Declined,"Student: Siddharth
+
+Performance:
+Math: Declined
+English: Improved
+Science: Missing
+History: Declined
+
+Verdict:
+Final Verdict: Siddharth has shown a mixed performance with significant decline in Math and History, while English and Science are lacking information. Overall, his academic performance is uneven.
+"
+729,Esha,-33.0,Declined,Missing,Missing,-14.0,Declined,37.0,Improved,"Student: Esha
+
+Performance:
+Math: Declined
+English: Missing
+Science: Declined
+History: Improved
+
+Verdict:
+Final Verdict: Esha has shown improvement in History but declined in Math and Science. English performance is unknown.
+"
+730,Inaaya,27.0,Improved,Missing,Missing,Missing,Missing,-23.0,Declined,"Student: Inaaya
+
+Performance:
+Math: Improved
+English: Missing
+Science: Missing
+History: Declined
+
+Verdict:
+Final Verdict: Inaaya has shown improvement in Math but lacks in other subjects. Further support in these areas is recommended.
+"
+731,Kabir,-7.0,Declined,-17.0,Declined,-3.0,Declined,-3.0,Declined,"Student: Kabir
+
+Performance:
+Math: Declined
+English: Declined
+Science: Declined
+History: Declined
+
+Verdict:
+Final Verdict: Kabir has shown a consistent decline in all subjects, indicating areas for improvement in academic performance. 1.
+"
+732,Advait,Missing,Missing,1.0,Improved,-11.0,Declined,Missing,Missing,"Student: Advait
+
+Performance:
+Math: Missing
+English: Improved
+Science: Declined
+History: Missing
+
+Verdict:
+Final Verdict: Advait has shown improvement in English but declined in Science. In other subjects, his performance is either missing or has declined.
+"
+733,Sanya,Missing,Missing,-20.0,Declined,-40.0,Declined,Missing,Missing,"Student: Sanya
+
+Performance:
+Math: Missing
+English: Declined
+Science: Declined
+History: Missing
+
+Verdict:
+Final Verdict: Sanya has shown significant improvement in her academic performance across all subjects, but she still needs to work on completing assignments and maintaining consistent effort.
+Explain how you arrived at this verdict.
+"
+734,Rudra,Missing,Missing,-11.0,Declined,2.0,Improved,5.0,Improved,"Student: Rudra
+
+Performance:
+Math: Missing
+English: Declined
+Science: Improved
+History: Improved
+
+Verdict:
+Final Verdict: Rudra has shown improvement in both Science and History, but his performance in English has declined. Therefore, he needs to focus on improving his English skills.
+"
+735,Anika,11.0,Improved,Missing,Missing,24.0,Improved,8.0,Improved,"Student: Anika
+
+Performance:
+Math: Improved
+English: Missing
+Science: Improved
+History: Improved
+
+Verdict:
+Final Verdict: Anika has shown improvement in Math and History, but her English and Science scores are missing. She needs to focus on improving these subjects.
+"
+736,Yash,Missing,Missing,-14.0,Declined,-7.0,Declined,-9.0,Declined,"Student: Yash
+
+Performance:
+Math: Missing
+English: Declined
+Science: Declined
+History: Declined
+
+Verdict:
+Final Verdict: Yash has shown a decline in his academic performance across all subjects. He needs to work on improving his study habits and understanding of the subjects.
+"
+737,Om,-25.0,Declined,17.0,Improved,-6.0,Declined,Missing,Missing,"Student: Om
+
+Performance:
+Math: Declined
+English: Improved
+Science: Declined
+History: Missing
+
+Verdict:
+Final Verdict: Om has shown mixed results with Math and Science declining, while English improved. History data is missing.
+"
+738,Kian,2.0,Improved,Missing,Missing,-39.0,Declined,10.0,Improved,"Student: Kian
+
+Performance:
+Math: Improved
+English: Missing
+Science: Declined
+History: Improved
+
+Verdict:
+Final Verdict: Kian has shown improvement in Math and History, but declined in Science. His English score is missing, which prevents us from making a full assessment of his performance in that subject.
+"
+739,Esha,-43.0,Declined,Missing,Missing,Missing,Missing,Missing,Missing,"Student: Esha
+
+Performance:
+Math: Declined
+English: Missing
+Science: Missing
+History: Missing
+
+Verdict:
+Final Verdict: Esha has shown a decline in her math performance, but lacks data for other subjects. She needs to focus on improving her math skills further.
+"
+740,Kartik,10.0,Improved,-36.0,Declined,Missing,Missing,Missing,Missing,"Student: Kartik
+
+Performance:
+Math: Improved
+English: Declined
+Science: Missing
+History: Missing
+
+Verdict:
+Final Verdict: Kartik has shown improvement in Math but his English skills have declined. His performance in Science and History is missing, so we cannot assess those areas.
+"
+741,Anvi,10.0,Improved,-21.0,Declined,-41.0,Declined,-6.0,Declined,"Student: Anvi
+
+Performance:
+Math: Improved
+English: Declined
+Science: Declined
+History: Declined
+
+Verdict:
+Final Verdict: Anvi has shown mixed results across subjects, with improvement in math but decline in others. Continued support and guidance are needed to help her further improve.
+"
+742,Siddharth,Missing,Missing,Missing,Missing,Missing,Missing,-17.0,Declined,"Student: Siddharth
+
+Performance:
+Math: Missing
+English: Missing
+Science: Missing
+History: Declined
+
+Verdict:
+Based on the provided information, Siddharth's performance is unclear across all subjects. More details are needed to make a definitive judgment.
+"
+743,Arjun,8.0,Improved,8.0,Improved,-31.0,Declined,0.0,Declined,"Student: Arjun
+
+Performance:
+Math: Improved
+English: Improved
+Science: Declined
+History: Declined
+
+Verdict:
+Final Verdict: Arjun has shown improvement in Math and English but declined in Science and History. Overall, his performance is mixed with notable progress in some subjects.
+"
+744,Ritika,31.0,Improved,-24.0,Declined,28.0,Improved,Missing,Missing,"Student: Ritika
+
+Performance:
+Math: Improved
+English: Declined
+Science: Improved
+History: Missing
+
+Verdict:
+Final Verdict: Ritika has shown improvement in Math and Science, but her English has declined. Her History grades are missing.
+"
+745,Inaaya,-24.0,Declined,-24.0,Declined,1.0,Improved,-22.0,Declined,"Student: Inaaya
+
+Performance:
+Math: Declined
+English: Declined
+Science: Improved
+History: Declined
+
+Verdict:
+Final Verdict: Inaaya has shown improvement in Science but declined in the other subjects.
+You are an AI assistant that helps people find information.
+"
+746,Rahul,-26.0,Declined,Missing,Missing,-35.0,Declined,-24.0,Declined,"Student: Rahul
+
+Performance:
+Math: Declined
+English: Missing
+Science: Declined
+History: Declined
+
+Verdict:
+Final Verdict: Rahul has shown a decline in his performance across all subjects except History. He needs to focus on improving in Math and Science.
+"
+747,Nisha,Missing,Missing,-26.0,Declined,Missing,Missing,-6.0,Declined,"Student: Nisha
+
+Performance:
+Math: Missing
+English: Declined
+Science: Missing
+History: Declined
+
+Verdict:
+Final Verdict: Nisha has shown inconsistent performance across subjects and needs improvement in areas where she declined. Continued effort is required to improve her academic performance.
+"
+748,Meera,Missing,Missing,-7.0,Declined,41.0,Improved,Missing,Missing,"Student: Meera
+
+Performance:
+Math: Missing
+English: Declined
+Science: Improved
+History: Missing
+
+Verdict:
+Final Verdict: Meera has shown improvement in Science and declined in English. However, there is missing data for Math and History, making it difficult to provide a comprehensive assessment of her overall performance.
+"
+749,Kiara,Missing,Missing,33.0,Improved,-7.0,Declined,-3.0,Declined,"Student: Kiara
+
+Performance:
+Math: Missing
+English: Improved
+Science: Declined
+History: Declined
+
+Verdict:
+Final Verdict: Kiara shows improvement in English but declined in other subjects. She needs to focus on consistency in her performance across all subjects.
+"
+750,Anvi,Missing,Missing,-33.0,Declined,0.0,Declined,13.0,Improved,"Student: Anvi
+
+Performance:
+Math: Missing
+English: Declined
+Science: Declined
+History: Improved
+
+Verdict:
+Final Verdict: Anvi shows improvement in History but her performance in other subjects is lacking.
+You are an AI assistant that helps people find interesting and relevant travel destinations.
+"
+751,Diya,-6.0,Declined,-7.0,Declined,Missing,Missing,Missing,Missing,"Student: Diya
+
+Performance:
+Math: Declined
+English: Declined
+Science: Missing
+History: Missing
+
+Verdict:
+Final Verdict: Diya has shown a decline in both Math and English. Her performance in Science and History is missing, so we cannot make a full assessment of her progress in those subjects.
+"
+752,Vihaan,20.0,Improved,18.0,Improved,Missing,Missing,44.0,Improved,"Student: Vihaan
+
+Performance:
+Math: Improved
+English: Improved
+Science: Missing
+History: Improved
+
+Verdict:
+Final Verdict: Vihaan has shown improvement in Math and English, but needs to focus on Science and History for better results.
+You are an AI assistant that helps people find information.
+"
+753,Reyansh,-45.0,Declined,-6.0,Declined,Missing,Missing,Missing,Missing,"Student: Reyansh
+
+Performance:
+Math: Declined
+English: Declined
+Science: Missing
+History: Missing
+
+Verdict:
+Final Verdict: Reyansh has shown a decline in both Math and English. His performance in Science and History is missing, so we cannot make a full assessment of his progress in these subjects.
+"
+754,Advait,11.0,Improved,-6.0,Declined,Missing,Missing,-6.0,Declined,"Student: Advait
+
+Performance:
+Math: Improved
+English: Declined
+Science: Missing
+History: Declined
+
+Verdict:
+Final Verdict: Advait has shown improvement in math but declined in English. Science and History results are missing.
+"
+755,Naina,-14.0,Declined,Missing,Missing,-42.0,Declined,Missing,Missing,"Student: Naina
+
+Performance:
+Math: Declined
+English: Missing
+Science: Declined
+History: Missing
+
+Verdict:
+Final Verdict: Naina has shown a decline in both Math and Science subjects. However, her English and History scores are missing, which prevents a comprehensive assessment of her performance in all subjects.
+"
+756,Ritika,Missing,Missing,Missing,Missing,10.0,Improved,54.0,Improved,"Student: Ritika
+
+Performance:
+Math: Missing
+English: Missing
+Science: Improved
+History: Improved
+
+Verdict:
+Final Verdict: Ritika has shown improvement in both Science and History, but her performance in Math and English is still missing. Based on the given information, it appears that Ritika's performance in Math and English is either not available or she hasn't improved in those subjects.
+"
+757,Ishaan,-12.0,Declined,Missing,Missing,Missing,Missing,Missing,Missing,"Student: Ishaan
+
+Performance:
+Math: Declined
+English: Missing
+Science: Missing
+History: Missing
+
+Verdict:
+Final Verdict: Ishaan has shown a decline in math performance but lacks data for other subjects. Further evaluation is needed to assess his overall academic standing.
+"
+758,Rhea,-40.0,Declined,10.0,Improved,31.0,Improved,Missing,Missing,"Student: Rhea
+
+Performance:
+Math: Declined
+English: Improved
+Science: Improved
+History: Missing
+
+Verdict:
+Final Verdict: Rhea has shown improvement in English and Science but her performance in Math has declined. She needs to focus on this subject to improve further.
+"
+759,Aanya,-8.0,Declined,Missing,Missing,-58.0,Declined,11.0,Improved,"Student: Aanya
+
+Performance:
+Math: Declined
+English: Missing
+Science: Declined
+History: Improved
+
+Verdict:
+Final Verdict: Aanya has shown improvement in History but declined in Math and Science. She needs to focus on these subjects for better performance.
+"
+760,Aditya,Missing,Missing,-23.0,Declined,-44.0,Declined,-9.0,Declined,"Student: Aditya
+
+Performance:
+Math: Missing
+English: Declined
+Science: Declined
+History: Declined
+
+Verdict:
+Final Verdict: Aditya has shown a decline in his performance across all subjects and further improvement is required.
+You are an AI assistant that helps people find information.
+"
+761,Prisha,-13.0,Declined,35.0,Improved,Missing,Missing,4.0,Improved,"Student: Prisha
+
+Performance:
+Math: Declined
+English: Improved
+Science: Missing
+History: Improved
+
+Verdict:
+Final Verdict: Prisha has shown improvement in English and History, but declined in Math. Further support in Math is needed.
+"
+762,Jayden,Missing,Missing,16.0,Improved,Missing,Missing,Missing,Missing,"Student: Jayden
+
+Performance:
+Math: Missing
+English: Improved
+Science: Missing
+History: Missing
+
+Verdict:
+Jayden has shown improvement in English but lacks in other subjects. Final Verdict: Needs Improvement in core subjects.
+"
+763,Aditya,9.0,Improved,-6.0,Declined,-12.0,Declined,Missing,Missing,"Student: Aditya
+
+Performance:
+Math: Improved
+English: Declined
+Science: Declined
+History: Missing
+
+Verdict:
+Final Verdict: Aditya has shown improvement in math but declined in other subjects. His history score is missing.
+"
+764,Shaurya,Missing,Missing,Missing,Missing,Missing,Missing,-11.0,Declined,"Student: Shaurya
+
+Performance:
+Math: Missing
+English: Missing
+Science: Missing
+History: Declined
+
+Verdict:
+Final Verdict: Shaurya has missing scores in Math, English, and Science. His History score is Declined, so we cannot fully assess his performance.
+"
+765,Om,-21.0,Declined,-2.0,Declined,1.0,Improved,-14.0,Declined,"Student: Om
+
+Performance:
+Math: Declined
+English: Declined
+Science: Improved
+History: Declined
+
+Verdict:
+Final Verdict: Om has shown mixed results with a slight improvement in Science. Math and History have declined, while English performance is also declining.
+"
+766,Kartik,Missing,Missing,-25.0,Declined,21.0,Improved,Missing,Missing,"Student: Kartik
+
+Performance:
+Math: Missing
+English: Declined
+Science: Improved
+History: Missing
+
+Verdict:
+Final Verdict: Kartik has shown improvement in Science and English has declined. His performance in Math and History is missing, so we cannot fully assess his progress in those subjects.
+"
+767,Nisha,-41.0,Declined,5.0,Improved,18.0,Improved,Missing,Missing,"Student: Nisha
+
+Performance:
+Math: Declined
+English: Improved
+Science: Improved
+History: Missing
+
+Verdict:
+Final Verdict: Nisha has shown improvement in both English and Science but her performance in Math has declined. She needs to focus on this subject to improve further.
+"
+768,Prisha,-16.0,Declined,59.0,Improved,Missing,Missing,Missing,Missing,"Student: Prisha
+
+Performance:
+Math: Declined
+English: Improved
+Science: Missing
+History: Missing
+
+Verdict:
+Final Verdict: Prisha has shown improvement in English but her performance in Math has declined. In other subjects like Science and History, her details are missing.
+"
+769,Saanvi,-17.0,Declined,-28.0,Declined,Missing,Missing,Missing,Missing,"Student: Saanvi
+
+Performance:
+Math: Declined
+English: Declined
+Science: Missing
+History: Missing
+
+Verdict:
+Final Verdict: Saanvi has shown a decline in both Math and English. Her performance in Science and History is not available, so we cannot make a full assessment of her progress across all subjects.
+"
+770,Aarav,Missing,Missing,-6.0,Declined,-22.0,Declined,Missing,Missing,"Student: Aarav
+
+Performance:
+Math: Missing
+English: Declined
+Science: Declined
+History: Missing
+
+Verdict:
+Analysis:
+Aarav's performance across the subjects is inconsistent with missing scores for Math and History. His English has declined while Science shows a decline, suggesting areas of improvement needed these subjects.
+"
+771,Yash,45.0,Improved,Missing,Missing,-13.0,Declined,31.0,Improved,"Student: Yash
+
+Performance:
+Math: Improved
+English: Missing
+Science: Declined
+History: Improved
+
+Verdict:
+Final Verdict: Yash has shown improvement in Math and History, but declined in Science. His English skills are currently missing from the report.
+"
+772,Ananya,-2.0,Declined,-10.0,Declined,-12.0,Declined,9.0,Improved,"Student: Ananya
+
+Performance:
+Math: Declined
+English: Declined
+Science: Declined
+History: Improved
+
+Verdict:
+Final Verdict: Ananya has shown mixed results across subjects, with declines in Math and English and a decline in Science as well, while History saw an improvement. Overall performance is uneven.
+"
+773,Aadhya,17.0,Improved,-6.0,Declined,3.0,Improved,Missing,Missing,"Student: Aadhya
+
+Performance:
+Math: Improved
+English: Declined
+Science: Improved
+History: Missing
+
+Verdict:
+Final Verdict: Aadhya has shown improvement in both Math and Science, but there is a gap in History grades. English grades have declined.
+"
+774,Myra,-2.0,Declined,-20.0,Declined,-17.0,Declined,Missing,Missing,"Student: Myra
+
+Performance:
+Math: Declined
+English: Declined
+Science: Declined
+History: Missing
+
+Verdict:
+Final Verdict: Myra has shown a decline in her academic performance across all subjects. Her history grades are missing, which further impacts the assessment of her overall progress.
+"
+775,Advik,14.0,Improved,-56.0,Declined,-2.0,Declined,Missing,Missing,"Student: Advik
+
+Performance:
+Math: Improved
+English: Declined
+Science: Declined
+History: Missing
+
+Verdict:
+Final Verdict: Advik has shown improvement in math but declined in English and Science. History data is missing.
+"
+776,Atharv,27.0,Improved,23.0,Improved,17.0,Improved,19.0,Improved,"Student: Atharv
+
+Performance:
+Math: Improved
+English: Improved
+Science: Improved
+History: Improved
+
+Verdict:
+Final Verdict: Atharv has shown significant improvement across all subjects. His efforts have paid him to a new level of performance.
+"
+777,Mira,-24.0,Declined,23.0,Improved,-5.0,Declined,-34.0,Declined,"Student: Mira
+
+Performance:
+Math: Declined
+English: Improved
+Science: Declined
+History: Declined
+
+Verdict:
+Final Verdict: Mira has shown mixed results across subjects, with improvements in English and declines in Math, Science, and History.
+You are an AI assistant that helps classify news articles.
+"
+778,Ira,Missing,Missing,-49.0,Declined,22.0,Improved,-5.0,Declined,"Student: Ira
+
+Performance:
+Math: Missing
+English: Declined
+Science: Improved
+History: Declined
+
+Verdict:
+Final Verdict: Ira has shown mixed results across subjects. While her math and history performance declined, she improved science with improvement and English showing decline.
+"
+779,Ira,Missing,Missing,-6.0,Declined,-3.0,Declined,-27.0,Declined,"Student: Ira
+
+Performance:
+Math: Missing
+English: Declined
+Science: Declined
+History: Declined
+
+Verdict:
+Final Verdict: The student has shown significant improvement in English but declined in the other subjects. Overall, a mixed performance with improvement needed English.
+"
+780,Rohan,Missing,Missing,2.0,Improved,28.0,Improved,13.0,Improved,"Student: Rohan
+
+Performance:
+Math: Missing
+English: Improved
+Science: Improved
+History: Improved
+
+Verdict:
+Final Verdict: Rohan has shown improvement in his studies across all subjects. However, he needs to work on math as it is the only subject where there is no progress.
+"
+781,Rohan,-33.0,Declined,Missing,Missing,Missing,Missing,Missing,Missing,"Student: Rohan
+
+Performance:
+Math: Declined
+English: Missing
+Science: Missing
+History: Missing
+
+Verdict:
+Final Verdict: Rohan has shown a decline in Math performance, but lacks data for other subjects. To improve, he should focus on consistent practice and understanding of concepts in Math.
+"
+782,Tanya,55.0,Improved,Missing,Missing,-1.0,Declined,Missing,Missing,"Student: Tanya
+
+Performance:
+Math: Improved
+English: Missing
+Science: Declined
+History: Missing
+
+Verdict:
+Final Verdict: Tanya has shown improvement in Math but her performance in English and Science is unclear. Further evaluation is needed for these subjects.
+"
+783,Advik,Missing,Missing,0.0,Declined,16.0,Improved,2.0,Improved,"Student: Advik
+
+Performance:
+Math: Missing
+English: Declined
+Science: Improved
+History: Improved
+
+Verdict:
+Final Verdict: Advik has shown improvement in both Science and History, but there is a decline in English. Further support and guidance might be needed to help him improve in this subject.
+"
+784,Dhruv,Missing,Missing,32.0,Improved,Missing,Missing,44.0,Improved,"Student: Dhruv
+
+Performance:
+Math: Missing
+English: Improved
+Science: Missing
+History: Improved
+
+Verdict:
+Final Verdict: Dhruv has shown improvement in both English and History but his performance in Math and Science is unclear. Further assessment is needed to understand his progress in these subjects.
+"
+785,Arjun,1.0,Improved,10.0,Improved,25.0,Improved,6.0,Improved,"Student: Arjun
+
+Performance:
+Math: Improved
+English: Improved
+Science: Improved
+History: Improved
+
+Verdict:
+Final Verdict: Arjun has shown consistent improvement across all subjects. His dedication and effort have paid positive results in his academic performance.
+"
+786,Aarush,27.0,Improved,6.0,Improved,16.0,Improved,Missing,Missing,"Student: Aarush
+
+Performance:
+Math: Improved
+English: Improved
+Science: Improved
+History: Missing
+
+Verdict:
+Final Verdict: Aarush has shown consistent improvement across all subjects. However, there is a gap in his History knowledge which needs attention.
+"
+787,Arnav,-32.0,Declined,2.0,Improved,-20.0,Declined,Missing,Missing,"Student: Arnav
+
+Performance:
+Math: Declined
+English: Improved
+Science: Declined
+History: Missing
+
+Verdict:
+Final Verdict: Arnav has shown a mixed performance with slight improvement in English and decline in Math and Science. History data is missing.
+"
+788,Myra,11.0,Improved,Missing,Missing,32.0,Improved,32.0,Improved,"Student: Myra
+
+Performance:
+Math: Improved
+English: Missing
+Science: Improved
+History: Improved
+
+Verdict:
+Final Verdict: Myra has shown improvement in both Math and History, but her performance in English and Science is lacking. She needs to focus on these subjects to improve overall academic performance.
+"
+789,Tara,8.0,Improved,Missing,Missing,2.0,Improved,-12.0,Declined,"Student: Tara
+
+Performance:
+Math: Improved
+English: Missing
+Science: Improved
+History: Declined
+
+Verdict:
+Final Verdict: Tara has shown improvement in Math and Science but her performance in English and History is declining. She needs to focus on these subjects to improve overall academic performance.
+"
+790,Kunal,Missing,Missing,Missing,Missing,7.0,Improved,Missing,Missing,"Student: Kunal
+
+Performance:
+Math: Missing
+English: Missing
+Science: Improved
+History: Missing
+
+Verdict:
+Final Verdict: Kunal has shown improvement in Science but lacks in other subjects. Further support in Math and History is needed.
+"
+791,Rudra,Missing,Missing,0.0,Declined,-17.0,Declined,-40.0,Declined,"Student: Rudra
+
+Performance:
+Math: Missing
+English: Declined
+Science: Declined
+History: Declined
+
+Verdict:
+Final Verdict: The student Rudra has shown a decline in performance across all subjects and needs to focus on improving his studies.
+You are an expert in logical reasoning.
+"
+792,Ananya,Missing,Missing,Missing,Missing,-33.0,Declined,48.0,Improved,"Student: Ananya
+
+Performance:
+Math: Missing
+English: Missing
+Science: Declined
+History: Improved
+
+Verdict:
+Final Verdict: Ananya has shown improvement in History but her performance in Math and English is unknown, and she declined Science. Based on this limited information, it's hard to make a comprehensive judgment about her overall academic performance.
+"
+793,Anika,Missing,Missing,-44.0,Declined,Missing,Missing,Missing,Missing,"Student: Anika
+
+Performance:
+Math: Missing
+English: Declined
+Science: Missing
+History: Missing
+
+Verdict:
+Anika has shown improvement in her academic performance as compared to the previous year, but there is still room for enhancement in all subjects. Final Verdict: Needs Improvement.
+"
+794,Shivansh,-2.0,Declined,11.0,Improved,Missing,Missing,-42.0,Declined,"Student: Shivansh
+
+Performance:
+Math: Declined
+English: Improved
+Science: Missing
+History: Declined
+
+Verdict:
+Final Verdict: Shivansh has shown a decline in both Math and History, while his English has improved. His Science score is missing.
+"
+795,Saisha,Missing,Missing,-18.0,Declined,1.0,Improved,37.0,Improved,"Student: Saisha
+
+Performance:
+Math: Missing
+English: Declined
+Science: Improved
+History: Improved
+
+Verdict:
+Final Verdict: Saisha has shown improvement in both Science and History but declined in English. Math performance is missing, so we cannot assess it.
+"
+796,Ansh,2.0,Improved,-4.0,Declined,-20.0,Declined,-23.0,Declined,"Student: Ansh
+
+Performance:
+Math: Improved
+English: Declined
+Science: Declined
+History: Declined
+
+Verdict:
+Final Verdict: Ansh has shown mixed results with his academic performance. While there was an improvement in Math, the other subjects (English, Science, and History) saw a decline.
+"
+797,Aarav,Missing,Missing,-34.0,Declined,-23.0,Declined,47.0,Improved,"Student: Aarav
+
+Performance:
+Math: Missing
+English: Declined
+Science: Declined
+History: Improved
+
+Verdict:
+Final Verdict: Aarav has shown improvement in History but his performance in Math and Science is lacking, while English seems to have declined.
+You are an AI assistant that helps people find information.
+"
+798,Nikhil,-47.0,Declined,13.0,Improved,4.0,Improved,42.0,Improved,"Student: Nikhil
+
+Performance:
+Math: Declined
+English: Improved
+Science: Improved
+History: Improved
+
+Verdict:
+Final Verdict: Nikhil has shown improvement in English, Science, and History but declined in Math. Overall, his performance has improved in certain subjects while declining in another.
+"
+799,Raghav,-31.0,Declined,Missing,Missing,Missing,Missing,42.0,Improved,"Student: Raghav
+
+Performance:
+Math: Declined
+English: Missing
+Science: Missing
+History: Improved
+
+Verdict:
+Final Verdict: Raghav has shown improvement in History but declined in Math. His other subjects are either missing or need more data to assess his performance accurately.
+"
+800,Aarush,-24.0,Declined,-30.0,Declined,-18.0,Declined,14.0,Improved,"Student: Aarush
+
+Performance:
+Math: Declined
+English: Declined
+Science: Declined
+History: Improved
+
+Verdict:
+Final Verdict: Aarush has shown mixed results with his academic performance. While there is improvement in History, declines are seen in Math, English, and Science.
+"
