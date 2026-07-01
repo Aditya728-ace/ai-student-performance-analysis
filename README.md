@@ -291,9 +291,9 @@ and include the download link here.
 
 **<Your Name>**
 
-LinkedIn: *Add your profile*
+LinkedIn: *www.linkedin.com/in/aditya-ahirrao-733b6026b*
 
-GitHub: *Add your profile*
+GitHub: *https://github.com/Aditya728-ace*
 
 ---
 
